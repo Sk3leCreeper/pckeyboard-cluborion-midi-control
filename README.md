@@ -34,14 +34,14 @@ The program that is used to generate the midi signals(VMPK) only registers keyst
 1. Make sure LoopMIDI is running with the port you created unmuted.
 2. Open VMPK and go to Edit -> MIDI Connections
     <p align="center">
-    <img src="img/vmpk_s2.png">
+    <img src="img/vmpk_s2.jpg">
     </p>
 3. Set the "MIDI OUT Driver" to "Windows MM"
 3. Set the "Output MIDI Connection" to the name of the LoopMIDI port you created. If it doesn't show on the dropdown, make sure LoopMIDI is running with the port unmuted.
 4. Uncheck "Enable MIDI Thru on MIDI Output"
 5. Click OK
     <p align="center">
-    <img src="img/vmpk_s3.png">
+    <img src="img/vmpk_s3.jpg">
     </p>
 6. Go to Edit -> Keyboard Map
 7. If you are using my provided config, download it from the repository then click the Open button and navigate to the XML and select it and hit OK. Otherwise, continue the steps below.
