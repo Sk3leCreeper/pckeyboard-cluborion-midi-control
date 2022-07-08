@@ -1,5 +1,5 @@
 # Club Orion Audio Reactive Keyboard MIDI Control
-This guide will show you how to set up your system to be able to control the audio reactive lights inside Club Orion.
+This guide will show you how to set up your system to be able to control the audio reactive lights inside Club Orion with MIDI using a computer keyboard.
 
 I have provided my preferred bindings and will continue to update it should I modify the bindings. They are centered around having a numpad and as such might not work on smaller keyboards, if you don't have a numpad you will probably need to adapt your own set of bindings. 
 
