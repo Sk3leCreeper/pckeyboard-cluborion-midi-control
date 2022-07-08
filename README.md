@@ -78,3 +78,7 @@ https://www.youtube.com/watch?v=4l-vIRe8NlE
    - LoopMIDI also shows the current throughput of MIDI data through the virtual port, that can be checked to confirm if there is data going through. If there is data going through but still no reaction, then you might have a problem with your bindings, or you might have accidentally changed the "Channel" or "Base Octave" in VMPK.
 - VMPK freezes randomly sometimes, I know no fix for this other than just force quitting using task manager and restarting VMPK, making sure to re-load the .conf file you should have saved.
 - Be sure to load the .conf every time you start VMPK
+
+## Contribution
+
+If you would like to share your bindings on this repository, make a pull request with an XML of the keyboard bindings in VMPK, the VMPK .conf you used and a .txt file of the in-game MIDI bindings in a separate folder and I will review them.
